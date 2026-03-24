@@ -60,8 +60,24 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+<img width="1023" height="697" alt="Screenshot 2026-03-24 110754" src="https://github.com/user-attachments/assets/4f1f9f04-5a45-4fde-96fd-b6985fb72d47" />
+
+![WhatsApp Image 2026-03-15 at 10 36 25 AM](https://github.com/user-attachments/assets/0253d06f-cbaa-47ad-972c-5a41efbbd749)
+
+![WhatsApp Image 2026-03-15 at 10 36 27 AM](https://github.com/user-attachments/assets/7d06f2c6-e7cb-4716-b58b-3389fbd34958)
+
+![WhatsApp Image 2026-03-15 at 10 36 26 AM](https://github.com/user-attachments/assets/f82f2f8b-89b1-49c0-bb03-71af61e579be)
+
+<img width="1143" height="604" alt="Screenshot 2026-03-24 110914" src="https://github.com/user-attachments/assets/689abd18-193f-4ffc-a44c-5de0e2a22558" />
+
+
+
+
+
+
+
+### Name: PON SARAVANA PANDIAN B
+### Register Number:212225230207
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
